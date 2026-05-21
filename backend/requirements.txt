@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+aiofiles
+pydantic
+pydantic-settings
+python-dotenv
+yt-dlp
+google-api-python-client
+faster-whisper
+torch
+httpx
+transformers
+accelerate
+sentence-transformers
+numpy
+scikit-learn
